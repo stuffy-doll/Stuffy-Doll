@@ -4,7 +4,6 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-sanchez-porras/)
 [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/366358548244070411)
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stuffy-doll)
 
 Recently graduated from App/Academy! I'm excited to get out into the big wide world of coding to enhance my skills and help people out. I'm currently working on polishing up my capstone project and a secret project that is an homage to one of my favorite things in the entire world. I'm looking for work as well.
 
