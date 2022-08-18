@@ -19,9 +19,7 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stuffy-doll&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffy-doll)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stuffy-doll&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffy-doll)
 
 <!--START_SECTION:waka-->
 
