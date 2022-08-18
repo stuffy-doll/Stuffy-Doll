@@ -23,6 +23,9 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffy-doll)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **stuffy-doll/Stuffy-Doll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
