@@ -24,6 +24,11 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffy-doll)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   0 secs          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
