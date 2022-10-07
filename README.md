@@ -26,9 +26,7 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 10 mins   ████████████████████████▒   97.67 %
-Pug          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   8 hrs 10 mins   █████████████████████████   99.88 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
