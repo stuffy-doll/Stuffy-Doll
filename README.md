@@ -26,12 +26,12 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 18 mins   ████████████████░░░░░░░░░   63.75 %
-C++          1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Ruby         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Markdown     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-CSS          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-C            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JavaScript    6 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   39.62 %
+C++           5 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.10 %
+Ruby          1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+C             49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+CSS           39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Makefile      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
