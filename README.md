@@ -26,9 +26,11 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 45 mins   ██████████████████████▓░░   90.75 %
-HTML         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript    10 hrs 29 mins  ███████████████████████░░   92.09 %
+C++           53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
