@@ -26,12 +26,12 @@ Recently graduated from App/Academy! I'm excited to get out into the big wide wo
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 46 mins    ████████████████████▓░░░░   83.21 %
-Text     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Bash     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Docker   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   2 hrs 52 mins   ██████████████████████▒░░   88.92 %
+Text     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Bash     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Docker   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
