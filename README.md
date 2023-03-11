@@ -7,7 +7,7 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stuffy_doll_dev)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey.crab.man/)
 
-Recently graduated from App/Academy! I'm excited to get out into the big wide world of coding to enhance my skills and help people out. I'm currently working on polishing up my capstone project and a secret project that is an homage to one of my favorite things in the entire world. I'm looking for work as well.
+Software developer working on several projects, personal and professional.
 
 ### Skills
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
