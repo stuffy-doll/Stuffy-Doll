@@ -26,7 +26,7 @@ Software developer working on several projects, personal and professional.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   2 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
