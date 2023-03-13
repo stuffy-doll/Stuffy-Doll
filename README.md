@@ -26,7 +26,9 @@ Software developer working on several projects, personal and professional.
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 6 mins    █████████████████████████   100.00 %
+Python       3 hrs 37 mins   ██████████████████████░░░   87.80 %
+JavaScript   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
