@@ -23,16 +23,6 @@ Software developer working on several projects, personal and professional.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stuffy-doll&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffy-doll)
 
-<!--START_SECTION:waka-->
-
-```text
-Python       3 hrs 37 mins   ██████████████████████░░░   87.80 %
-JavaScript   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
-<!--END_SECTION:waka-->
-
 <!--
 **stuffy-doll/Stuffy-Doll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
